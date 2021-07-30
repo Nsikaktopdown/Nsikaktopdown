@@ -1,11 +1,10 @@
 <h2> Hey there! I'm Nsikak Thompson. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m a Mobile Engineer
 - 🤔 &nbsp; Building solutions for mobile using Cutting edge technologies.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 💼 &nbsp; Android developer and Flutter developer.
 - 🌱 &nbsp; Enthusiast in Design and Cloud Ops .
 
 
