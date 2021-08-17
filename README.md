@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a Mobile Engineer
-- 🤔 &nbsp; Building solutions for mobile using Cutting edge technologies.
-- 💼 &nbsp; Android developer and Flutter developer.
+- 🔭 &nbsp; I’m a clever Mobile Engineer
+- 🤔 &nbsp; Building solutions for mobile using cutting edge technologies.
+- 💼 &nbsp; Building beautiful mobile UIs with XML, Jetpack Compose and Dart.
 - 🌱 &nbsp; Enthusiast in Design and Cloud Ops .
 
 
